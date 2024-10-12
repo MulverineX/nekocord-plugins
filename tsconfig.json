@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "jsx": "react",
+        "moduleResolution": "node",
+        "lib": ["esnext", "dom"],
+    },
+}
